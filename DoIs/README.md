@@ -1,5 +1,5 @@
-# DI 原型
-> 海豚鉴定系统(Dolphin Identification)
+# DoIs 原型
+> 海豚鉴定系统(Dolphin Identification System)
 
 ## 背景
 [TensorFlow All\-Around 珠海 \| Meetup](https://www.meetup.com/TensorFlow-User-Group-Zhuhai/events/264053619/)
